@@ -16,7 +16,7 @@ html{
      padding: 0px 10px;
      color: black;
      z-index: 999999;
-     background-color: transparent;
+     /* background-color: transparent; */
  }
 
  .university {
