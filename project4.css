@@ -12,11 +12,11 @@ html{
      display: flex;
      justify-content: space-between;
      align-items: center;
-     background-color: pink;
+     /* background-color: pink; */
      padding: 0px 10px;
      color: black;
      z-index: 999999;
-     /* background-color: transparent; */
+     background-color: transparent;
  }
 
  .university {
@@ -110,6 +110,7 @@ html{
      padding: 10px 20px;
      border-radius: 10px;
      margin-right: 15px 0px 10px;
+     font-size:18px;
      /* color: white; */
  }
 
@@ -159,7 +160,7 @@ html{
  }
 
  .fbox {
-     height: 230px;
+     min-height: 230px;
      padding: 15px;
      width: 130px;
      background-color: rgb(11, 133, 182);
@@ -191,11 +192,11 @@ html{
 
  .fbox>h3 {
      margin-bottom: 10px;
-     color: white;
+     /* color: white; */
  }
 
  .fbox>p {
-     color: white;
+     /* color: white; */
  }
 
  .line09 {
