@@ -109,8 +109,8 @@ html{
      outline: none;
      padding: 10px 20px;
      border-radius: 10px;
-     margin-right: 0px 15px 10px;
-     color: white;
+     margin-right: 15px 0px 10px;
+     /* color: white; */
  }
 
  /* home page end */
