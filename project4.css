@@ -880,7 +880,8 @@ html{
          flex-wrap: wrap;
          gap: 30px;
          margin-top: 20px;
-         margin: auto;
+         background-color:green;
+         /* margin: auto; */
      }
 
      .aright {
