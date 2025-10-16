@@ -391,7 +391,7 @@ html{
  }
 
  .top-feedback-box {
-     min-height: 270px;
+     max-height: 240px;
      background-color:red;
      display: flex;
      width: max-content;
