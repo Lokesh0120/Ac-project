@@ -397,7 +397,7 @@ html{
      width: max-content;
      animation: scroll 8s linear infinite;
      gap: 30px;
-
+     margin-bottom:10px;
  }
 
  @keyframes scroll {
