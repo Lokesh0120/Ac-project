@@ -392,7 +392,6 @@ html{
 
  .top-feedback-box {
      max-height: 240px;
-     background-color:red;
      display: flex;
      width: max-content;
      animation: scroll 8s linear infinite;
@@ -412,7 +411,6 @@ html{
 
  .bottom-feedback-box {
      max-height: 240px;
-     background-color:green;
      display: flex;
      width: max-content;
      animation: scroll-2 8s linear infinite;
