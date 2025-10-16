@@ -876,12 +876,12 @@ html{
     border-radius:10px;
 } */
      .main1 {
-         max-width: 300px;
+         min-width: 300px;
          flex-wrap: wrap;
          gap: 30px;
          margin-top: 20px;
-         background-color:green;
-         /* margin: auto; */
+         margin: auto;
+         padding:10px;
      }
 
      .aright {
@@ -960,6 +960,4 @@ html{
          border: none;
          background-color: rgb(182, 219, 234)
      }
-
-
  }
