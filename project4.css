@@ -411,8 +411,8 @@ html{
  }
 
  .bottom-feedback-box {
-     min-height: 270px;
-     /* background-color: aqua; */
+     max-height: 240px;
+     background-color:green;
      display: flex;
      width: max-content;
      animation: scroll-2 8s linear infinite;
